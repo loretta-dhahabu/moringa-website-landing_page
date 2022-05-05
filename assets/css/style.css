@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.full-page{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    /*this block of code is a section for setting the position of the content between the class full page*/
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-top: 50px;
+    /*this is for setting the dimensions of the nav bar*/
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav > ul{
+    display: inline-block;
+    list-style: none;
+}
+nav > ul > li{
+    display: inline-block;
+    margin-right: 70px;
+    /*these blocks are for styling the list elements*/
+}
+nav > ul > li > a{
+    font-size: 15px;
+    color: black;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+nav > ul > li > button{
+    font-size: 15px;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+}
