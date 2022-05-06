@@ -2,6 +2,7 @@
 {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .full-page{
     position: absolute;
@@ -53,7 +54,7 @@ nav > ul > li > button{
 .intro{
     display: block;
     padding-left: 70px;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
     justify-content: center;
     align-items: center;
     
