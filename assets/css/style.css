@@ -50,3 +50,119 @@ nav > ul > li > button{
     width: 60px;
     height: 30px;
 }
+.intro{
+    display: block;
+    padding-left: 70px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#h1-1{
+    color: #EC4067;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#nurture{
+    margin-bottom: 20px;
+    justify-content: center;
+    width: 700px;
+}
+#enroll{
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+#explore{
+    color: #EC4067;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 0px;
+    width: 80px;
+    height: 30px;
+    border-color: #EC4067;
+    border-style: solid;
+}
+.intro > img{
+    float: right;
+    margin-left: 20px;
+    width: 300px;
+    height: 206px;
+    margin-right: 300px;
+    margin-top: -180px;
+    margin-bottom: 20px;
+
+}
+.stories{
+    display:block;
+    padding-left: 70px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.stories > img{
+    float: left;
+    margin-right: 50px;
+    width: 300px;
+    height: 206px;
+
+}
+.stories > #orientation{
+    margin-bottom: 20px;
+    justify-content: center;
+    width: 600px;
+}
+.stories > #day{
+    margin-bottom: 20px;
+}
+ #album{
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+.meeting{
+    display:block;
+    padding-left: 70px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.meeting > h3{
+    margin-bottom: 20px
+}
+.meeting > #board{
+    margin-bottom: 20px;
+    justify-content: center;
+    width: 300px;
+}
+.meeting > img{
+    float: right;
+    margin-left: 20px;
+    width: 300px;
+    height: 206px;
+    margin-right: 300px;
+    margin-top: -180px;
+    margin-bottom: 20px;
+}
+.meeting > #read{
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+}
+
+
